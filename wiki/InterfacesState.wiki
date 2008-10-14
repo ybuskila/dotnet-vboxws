@@ -1,4 +1,5 @@
-#summary Status-table of all vbox interfaces to implement
+#summary Status-table of all API interfaces to implement
+#labels Featured,Phase-Implementation
 
 || Interface name || State (*completed*, _in progress_, ~~not started~~) ||
 || IAudioAdapter || ~~not started~~ ||
