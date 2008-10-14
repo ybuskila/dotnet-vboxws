@@ -1,0 +1,11 @@
+#summary Status-table of all vbox interfaces to implement
+
+|| *Interface name* || *State (completed, in progress, not started)* ||
+|| IConsole || in progress ||
+|| IKeyBoard || completed ||
+|| IMachine || in progress ||
+|| IProgress || in progress||
+|| ISession || in progress ||
+|| IVirtualBox || in progress ||
+|| IVRDPServer || in progress ||
+|| IWebsessionManager || in progress ||
