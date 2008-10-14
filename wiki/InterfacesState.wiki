@@ -1,6 +1,6 @@
 #summary Status-table of all vbox interfaces to implement
 
-|| *Interface name* || *State (completed, in progress, not started)* ||
+|| Interface name || State (_completed_, *in progress*, not started) ||
 || IAudioAdapter || not started ||
 || IBIOSSettings || not started ||
 || IConsole || in progress ||
@@ -26,7 +26,7 @@
 || IISCSIHardDisk || not started ||
 || IInternalMachineControl || not started ||
 || IInternalSessionControl || not started ||
-|| IKeyBoard || completed ||
+|| IKeyBoard || _completed_ ||
 || IMachine || in progress ||
 || IMachineDebugger || not started ||
 || IManagedObjectRef || not started ||
