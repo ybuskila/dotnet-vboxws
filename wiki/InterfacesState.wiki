@@ -1,11 +1,56 @@
 #summary Status-table of all vbox interfaces to implement
 
 || *Interface name* || *State (completed, in progress, not started)* ||
+|| IAudioAdapter || not started ||
+|| IBIOSSettings || not started ||
 || IConsole || in progress ||
+|| IConsoleCallback || not started ||
+|| ICustomHardDisk || not started ||
+|| IDVDDrive || not started ||
+|| IDVDImage || not started ||
+|| IDisplay || not started ||
+|| IFloppyDrive || not started ||
+|| IFloppyImage || not started ||
+|| IFramebuffer || not started ||
+|| IFramebufferOverlay || not started ||
+|| IGuest || not started ||
+|| IGuestOSType || not started ||
+|| IHardDisk || not started ||
+|| IHardDiskAttachment || not started ||
+|| IHost || not started ||
+|| IHostDVDDrive || not started ||
+|| IHostFloppyDrive || not started ||
+|| IHostNetworkInterface || not started ||
+|| IHostUSBDevice || not started ||
+|| IHostUSBDeviceFilter || not started ||
+|| IISCSIHardDisk || not started ||
+|| IInternalMachineControl || not started ||
+|| IInternalSessionControl || not started ||
 || IKeyBoard || completed ||
 || IMachine || in progress ||
+|| IMachineDebugger || not started ||
+|| IManagedObjectRef || not started ||
+|| IMouse || not started ||
+|| INetworkAdapter || not started ||
+|| IParallelPort || not started ||
+|| IPerformanceCollector || not started ||
+|| IPerformanceMetric || not started ||
 || IProgress || in progress||
+|| IRemoteDisplayInfo || not started ||
+|| ISataController || not started ||
+|| ISerialPort || not started ||
 || ISession || in progress ||
-|| IVirtualBox || in progress ||
+|| ISharedFolder || not started ||
+|| ISnapshot || not started ||
+|| ISystemProperties || not started ||
+|| IUSBController || not started ||
+|| IUSBDevice || not started ||
+|| IUSBDeviceFilter || not started ||
+|| IVHDImage || not started ||
+|| IVMDKImage || not started ||
 || IVRDPServer || in progress ||
+|| IVirtualBox || in progress ||
+|| IVirtualBoxCallback || in progress ||
+|| IVirtualBoxErrorInfo || in progress ||
+|| IVirtualDiskImage || in progress ||
 || IWebsessionManager || in progress ||
