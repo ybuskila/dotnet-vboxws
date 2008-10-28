@@ -50,6 +50,7 @@ namespace VBoxWebService
         {
             try
             {
+
                 string value = this.access.IMachine_getVRDPServer(this._this);
                 return new IVRDPServer(value, this.access);
             }
